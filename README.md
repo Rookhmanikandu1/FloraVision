@@ -137,8 +137,8 @@ Only frontend UI implementation.
 
 👨‍💻 Developer
 
-Your Name
+Your Name: Rookhmani Kandu
 Email: rookhmanikandu@gmail.com
 
-GitHub: [https://github.com/YOUR-USERNAME](https://github.com/Rookhmanikandu/FloraVision)
+GitHub: (https://github.com/Rookhmanikandu/FloraVision)
 
